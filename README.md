@@ -7,13 +7,13 @@
 4. Wtyczka GilLens pozwala porównać wersje kodu którą właśnie napisaliśmy z kodem umieszczonym ostatnio w repozytorium.
    Widzimy zmiany w kodzie, co zostało usunięte i co dodane.
 
-4.Devtools
+5.Devtools
 
 2. Konsolę możemy otworzyć przyciskiem F12 na klawiaturze.
 3. Klikamy w opcje Default levels i zaznaczamy w rozwijanej liście to co nas interesuje.
 4. Ikonka w lewym górnym rogu konsoli podpisana Toggle device toolbar
 
-5.HtmlCoToJest
+7.HtmlCoToJest
 
 2. Znacznik "b" wyróżnia tekst pogrubiając go.
 3. charset="utf-8" oznacza deklaracje zestawu znaków które będą używane na stronie.
